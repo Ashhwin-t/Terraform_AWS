@@ -1,3 +1,4 @@
 # Ignore the terraform folder inside the EC2 directory
 EC2-tf/.terraform/
+pathnex-eks-prom-graf\.terraform
 
